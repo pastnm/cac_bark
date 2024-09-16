@@ -8,22 +8,34 @@
     {
       "enable": 1,
       "name": "QQ",
-      "url": "https://apps.apple.com/cn/app/id444934666"
+      "url": "https://apps.apple.com/cn/app/id444934666",
+      "bark": {
+        "level": "timeSensitive"
+      }
     },
     {
       "enable": 1,
       "name": "微信",
-      "url": "https://apps.apple.com/cn/app/id414478124"
+      "url": "https://apps.apple.com/cn/app/id414478124",
+      "bark": {
+        "level": "timeSensitive"
+      }
     },
     {
       "enable": 1,
       "name": "Telegram",
-      "url": "https://apps.apple.com/us/app/id686449807"
+      "url": "https://apps.apple.com/us/app/id686449807",
+      "bark": {
+        "level": "timeSensitive"
+      }
     },
     {
       "enable": 1,
       "name": "抖音",
-      "url": "https://apps.apple.com/cn/app/id1142110895"
+      "url": "https://apps.apple.com/cn/app/id1142110895",
+      "bark": {
+        "level": "timeSensitive"
+      }
     },
     {
       "enable": 1,
@@ -42,9 +54,34 @@
     },
     {
       "enable": 1,
+      "name": "Surge",
+      "url": "https://apps.apple.com/us/app/id1442620678"
+    },
+    {
+      "enable": 1,
+      "name": "QQ 音乐",
+      "url": "https://apps.apple.com/cn/app/id414603431"
+    },
+    {
+      "enable": 1,
+      "name": "Identity V",
+      "url": "https://apps.apple.com/us/app/id1347780764"
+    },
+    {
+      "enable": 1,
+      "name": "CareServer",
+      "url": "https://apps.apple.com/cn/app/id6474921250"
+    },
+    {
+      "enable": 1,
       "name": "Alook",
       "url": "https://apps.apple.com/cn/app/id1261944766",
       "bark": {
+        "title": {
+          "cache": "来自 cac - Alook",
+          "del": "来自 cac - Alook",
+          "up": "来自 cac - Alook"
+        },
         "body": {
           "cache": "当前最新版本：app_version\\n当前购买价格：app_price\\n已缓存到本地等待下一次对比",
           "del": "app_bundle\\n可能已下架，最后出现版本为：\\napp_version\\n从 cac 配置文件中移除 app_id 以避免不必要的消耗",
@@ -57,7 +94,7 @@
   "bark": {
     "is_archive": 0,
     "Hello_World": 0,
-    "level": "timeSensitive",
+    "level": "active",
     "title": {
       "cache": "来自 cac - app_name",
       "del": "来自 cac - app_name",
