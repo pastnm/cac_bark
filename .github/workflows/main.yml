@@ -7,7 +7,7 @@ on:
     - cron: '40 * * * *'
 
 jobs:
-  build:
+  cac:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -60,7 +60,12 @@ jobs:
             git commit -m 'save caches'
             git push
           fi
-          
+
+  remove_all_old_actions:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+
       - name: download remove_all_actions
         run: |
           sudo curl -L -o '/usr/bin/remove_all_actions' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
