@@ -5,5 +5,5 @@
   "name": "第五人格",
   "version": "25.133.740",
   "price": "免费",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d3/a4/96/d3a496ba-c31f-e378-75f4-b54dfe338b5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/1d/61/771d61a7-724a-4be8-d62d-eb4fd517121a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
 }
