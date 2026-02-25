@@ -46,23 +46,23 @@
     },
     {
       "enable": 1,
-      "name": "原神",
-      "url": "https://apps.apple.com/cn/app/id1467190251"
-    },
-    {
-      "enable": 1,
-      "name": "崩坏：星穹铁道",
-      "url": "https://apps.apple.com/cn/app/id1523037824"
-    },
-    {
-      "enable": 1,
-      "name": "第五人格",
-      "url": "https://apps.apple.com/cn/app/id1330863325"
-    },
-    {
-      "enable": 1,
       "name": "Surge",
       "url": "https://apps.apple.com/us/app/id1442620678"
+    },
+    {
+      "enable": 1,
+      "name": "Loon",
+      "url": "https://apps.apple.com/us/app/id1373567447"
+    },
+    {
+      "enable": 1,
+      "name": "GitHub",
+      "url": "https://apps.apple.com/us/app/id1477376905"
+    },
+    {
+      "enable": 1,
+      "name": "元梦之星",
+      "url": "https://apps.apple.com/cn/app/id1632344522"
     },
     {
       "enable": 1,
@@ -75,11 +75,6 @@
           "up": "来自 cac - QQ 音乐"
         }
       }
-    },
-    {
-      "enable": 1,
-      "name": "Identity V",
-      "url": "https://apps.apple.com/us/app/id1347780764"
     },
     {
       "enable": 1,
@@ -106,7 +101,7 @@
   ],
   "enable": 1,
   "bark": {
-    "is_archive": 0,
+    "is_archive": 1,
     "Hello_World": 0,
     "level": "active",
     "title": {
@@ -120,6 +115,6 @@
       "del": "app_bundle\\n可能已下架，最后出现版本为：\\napp_version\\n从 cac 配置文件中移除 app_id 以避免不必要的消耗",
       "up": "发现变更：\\n版本：app_version"
     },
-    "sound": "healthnotification"
+    "sound": "in"
   }
 }
