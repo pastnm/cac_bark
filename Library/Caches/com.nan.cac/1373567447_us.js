@@ -3,7 +3,7 @@
   "id": 1373567447,
   "bundle": "com.ruikq.decar",
   "name": "Loon",
-  "version": "3.3.8",
+  "version": "3.3.7",
   "version_id": 882379792,
   "version_release_timestamp": "2026-02-14T00:59:48Z",
   "price": "USD 7.99",
