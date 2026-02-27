@@ -1,4 +1,4 @@
-Name: "cac"
+name: cac
 
 on:
   workflow_dispatch:
