@@ -1,12 +1,9 @@
-name: "cac"
+Name: "cac"
 
 on:
   workflow_dispatch:
   repository_dispatch:
     types: [trigger-cac]
-  schedule:
-    - cron: '10 * * * *'
-    - cron: '40 * * * *'
 
 jobs:
   cac:
