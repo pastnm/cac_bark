@@ -1,4 +1,4 @@
-name: "cac"
+name: cac
 
 on:
   workflow_dispatch:
@@ -12,5 +12,4 @@ jobs:
       _key: ${{ secrets._key }}
 
   remove_all_old_actions:
-    needs: cac
     uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
