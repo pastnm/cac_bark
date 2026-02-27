@@ -3,7 +3,7 @@
   "id": 1632344522,
   "bundle": "com.tencent.letsgo",
   "name": "元梦之星-山海寻灵",
-  "version": "1.5.37.1",
+  "version": "1.5.37.0",
   "version_id": 881693646,
   "version_release_timestamp": "2026-01-27T02:01:41Z",
   "price": null,
