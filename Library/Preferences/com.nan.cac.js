@@ -64,10 +64,16 @@
       "name": "元梦之星",
       "url": "https://apps.apple.com/cn/app/id1632344522"
     },
-    {
+        {
       "enable": 1,
       "name": "维克音乐",
-      "url": "https://apps.apple.com/cn/app/id6740429002"
+      "url": "https://apps.apple.com/cn/app/id6740429002",
+      "bark": {
+        "body": {
+          "cache": "当前最新版本：app_version\\n当前价格：app_price\\n已缓存到本地等待下一次对比",
+          "up": "发现变更：\\n版本：app_version\\n价格：app_price"
+        }
+      }
     },
     {
       "enable": 1,
