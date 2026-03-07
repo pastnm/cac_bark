@@ -66,6 +66,11 @@
     },
     {
       "enable": 1,
+      "name": "维克音乐",
+      "url": "https://apps.apple.com/cn/app/id6740429002"
+    },
+    {
+      "enable": 1,
       "name": "QQ 音乐",
       "url": "https://apps.apple.com/cn/app/id414603431",
       "bark": {
