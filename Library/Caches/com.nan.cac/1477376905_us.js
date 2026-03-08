@@ -3,7 +3,7 @@
   "id": 1477376905,
   "bundle": "com.github.stormbreaker.prod",
   "name": "GitHub",
-  "version": "1.248.0",
+  "version": "1.247.0",
   "version_id": 882753598,
   "version_release_timestamp": "2026-03-03T17:52:44Z",
   "price": null,
