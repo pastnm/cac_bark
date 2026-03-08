@@ -71,7 +71,7 @@
   "bark": {
     "body": {
       "cache": "当前版本: app_version\\n当前价格: app_price",
-      "up": "更新: app_version · 价格: app_price"
+      "up": "更新: app_version • 价格: app_price"
     }
   }
 },
