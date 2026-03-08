@@ -65,7 +65,6 @@
       "url": "https://apps.apple.com/cn/app/id1632344522"
     },
     {
-    {
       "enable": 1,
       "name": "维克音乐",
       "url": "https://apps.apple.com/cn/app/id6740429002",
