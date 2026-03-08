@@ -3,7 +3,7 @@
   "id": 414603431,
   "bundle": "com.tencent.QQMusic",
   "name": "QQ音乐 - 听我想听",
-  "version": "20.1.2",
+  "version": "20.1.5",
   "version_id": 882222824,
   "version_release_timestamp": "2026-02-07T10:13:25Z",
   "price": null,
