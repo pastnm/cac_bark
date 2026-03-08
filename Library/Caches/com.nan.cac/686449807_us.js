@@ -3,7 +3,7 @@
   "id": 686449807,
   "bundle": "ph.telegra.Telegraph",
   "name": "Telegram Messenger",
-  "version": "12.5.1",
+  "version": "12.5.0",
   "version_id": 882993812,
   "version_release_timestamp": "2026-03-04T12:06:18Z",
   "price": null,
