@@ -74,8 +74,7 @@
       "up": "更新: app_version | 价格: app_price"
     }
   }
-}
-],
+},
       "enable": 1,
       "name": "QQ 音乐",
       "url": "https://apps.apple.com/cn/app/id414603431",
