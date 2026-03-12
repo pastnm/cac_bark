@@ -20,7 +20,12 @@
         "level": "timeSensitive"
       }
     },
-    {
+      {
+      "enable": 1,
+      "name": "ProxMobo",
+      "url": "https://apps.apple.com/cn/app/id6447794447"
+    },
+      {
       "enable": 1,
       "name": "微信",
       "url": "https://apps.apple.com/cn/app/id414478124",
