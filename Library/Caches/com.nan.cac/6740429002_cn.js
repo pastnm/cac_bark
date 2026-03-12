@@ -3,7 +3,7 @@
   "id": 6740429002,
   "bundle": "com.OfflineMusic.www.pro",
   "name": "维克音乐专业版 - 本地网盘音乐播放器",
-  "version": "3.3.5",
+  "version": "3.3.6",
   "version_id": 882595825,
   "version_release_timestamp": "2026-02-24T01:55:23Z",
   "price": "CNY 68.00",
