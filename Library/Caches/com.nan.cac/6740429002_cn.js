@@ -3,9 +3,9 @@
   "id": 6740429002,
   "bundle": "com.OfflineMusic.www.pro",
   "name": "维克音乐专业版 - 本地网盘音乐播放器",
-  "version": "3.4.0",
-  "version_id": 884591864,
-  "version_release_timestamp": "2026-04-16T21:11:48Z",
+  "version": "3.4.1",
+  "version_id": 884895293,
+  "version_release_timestamp": "2026-04-24T16:40:40Z",
   "price": "CNY 68.00",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/10/2d/58102dc1-bc64-2c2a-42cb-35bd42ac2da7/AppIcon_Pro-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/aa/00/dbaa004b-636c-65f9-a223-44d7f147292a/AppIcon_Pro-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg"
 }
