@@ -2,7 +2,7 @@
   "status": 0,
   "id": 6740429002,
   "bundle": "com.OfflineMusic.www.pro",
-  "name": "维克音乐专业版 - 本地网盘音乐播放器",
+  "name": "维克音乐专业版 - 本地音乐播放器",
   "version": "3.4.2",
   "version_id": 885104445,
   "version_release_timestamp": "2026-05-01T17:27:35Z",
