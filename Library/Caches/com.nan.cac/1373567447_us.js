@@ -3,9 +3,9 @@
   "id": 1373567447,
   "bundle": "com.ruikq.decar",
   "name": "Loon",
-  "version": "3.5.0",
-  "version_id": 887078860,
-  "version_release_timestamp": "2026-06-25T19:46:51Z",
+  "version": "3.5.1",
+  "version_id": 891296619,
+  "version_release_timestamp": "2026-09-22T14:00:56Z",
   "price": "USD 7.99",
-  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/c4/5f/fec45fa1-1194-c944-7c5c-a939e1ee0dfe/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg"
+  "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/f1/9d/0ff19d10-e590-ef5e-b16f-804ab008d1bd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg"
 }
