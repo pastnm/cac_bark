@@ -51,6 +51,14 @@
     },
     {
       "enable": 1,
+      "name": "Minis",
+      "url": "https://apps.apple.com/cn/app/id6759188481",
+      "bark": {
+        "level": "timeSensitive"
+      }
+    },
+    {
+      "enable": 1,
       "name": "Surge",
       "url": "https://apps.apple.com/us/app/id1442620678"
     },
